@@ -77,7 +77,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 					<a href="index.html" id="fh5co-header-logo"><img src="images/logo.png" alt="Sprint Logo"></a>
 					<a href="#" class="fh5co-header-bars js-nav-toggle"><span>Menu</span> <i class="ti-menu"></i></a>					
 -->
-					<h1 class="fh5co-header-intro">Work<br>  Shop<br>Trial<br>2016/4/23<br>@Kannai</h1>
+					<h1 class="fh5co-header-intro">Work<br>  Shop<br>Fes.<br>2016/4/23<br>@Kannai</h1>
 				</div>
 			</header>	
 			<!-- /fh5co-header -->
@@ -100,13 +100,12 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 								“Block-level” links in HTML5
 								http://html5doctor.com/block-level-links-in-html-5/
 								 -->
-								<a href="#fh5co-workwithus" class="fh5co-block-links text-center">
+								<a href="#" class="fh5co-block-links text-center">
 									<div class="icon-circle">
 										<i class="ti-settings"></i>
 									</div>
 									<h2>であう。</h2>
-									<p>ワークショップってなんだろう？という方のお試し参加の場。
-                                    </p>
+									<p>ビジネスからアートまで、ワークショップって実は幅広いんです。今まで出会わなかったワークショップに出会えます。</p>
 									<p><span class="learn-more">詳細へ</span></p>
 								</a>
 							</div>		
@@ -114,12 +113,12 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 						<div class="col-md-4">
 
 							<div class="fh5co-main-service">
-								<a href="#fh5co-journal" class="fh5co-block-links text-center">
+								<a href="#" class="fh5co-block-links text-center">
 									<div class="icon-circle">
 										<i class="ti-ruler-pencil"></i>
 									</div>
 									<h2>ためす。</h2>
-									<p>ワークショップをやってみるのは、意外とたいへん。ワークショップはそんな方にとっての実践の場です。</p>
+									<p>ワークショップをやってみるのは、意外とたいへん。ワークショップはそんな人にとってのお試しの場です。</p>
 									<p><span class="learn-more">ワークショップ一覧</span></p>
 								</a>
 							</div>	
@@ -128,13 +127,12 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 						<div class="col-md-4">
 
 							<div class="fh5co-main-service">
-								<a href="#fh5co-projects" class="fh5co-block-links text-center">
+								<a href="#" class="fh5co-block-links text-center">
 									<div class="icon-circle">
 										<i class="ti-mobile"></i>
 									</div>
 									<h2>つなぐ。</h2>
-									<p>ワークショップをためす人、であう人が
-                                        フラットに話せる場をもうけます。</p>
+									<p>ワークショップをためす人、であう人がごはんでも食べながら、フラットに話せる場をもうけます。</p>
 									<p><span class="learn-more">ギャラリー</span></p>
 								</a>
 							</div>		
@@ -144,151 +142,7 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 					</div>
 					<!-- END .row -->
 				</div>
-				<div class="container" id="fh5co-journal">
-					<div class="row">
-						<div class="col-md-12">
-							<div class="fh5co-heading text-center">
-									<h2 class="fh5co-heading-title">Performer<span class="border"></span></h2>
-									<h3 class="fh5co-heading-intro">Work Shop Fesを盛り上げてくれる素敵な方々をご紹介します。</h3>
-								</div>
-						</div>
-					</div>
-					<!-- END .row -->
 
-					<div class="row">
-						<div class="owl-carousel-posts">
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_2.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">タマクロッカン </h2>
-										<span class="meta text-after">マナを見つけに</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_3.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">team:たまじろう</h2>
-										<span class="meta text-after">Proffesional  私の流儀</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_1.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">さとピン</h2>
-										<span class="meta text-after">メンタルヘルス</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_2.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">ミサ</h2>
-										<span class="meta text-after">絵本と仕事</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_3.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">トシ</h2>
-										<span class="meta text-after">Cooking</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_1.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">運営チーム</h2>
-										<span class="meta text-after">ワークショップフェスの運営</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_2.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">ジャスミン</h2>
-										<span class="meta text-after">なかま　な　かんじ</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_3.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">くりたろう</h2>
-										<span class="meta text-after">○○</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-                            <!--
-							<div class="item">
-								<div class="fh5co-image-text">
-									<a href="#" class="fh5co-block-links hover-img">
-										<figure>
-											<img src="images/project_1.jpg" alt="Post Title" class="img-responsive">
-											<div class="dark-overlay"></div>
-										</figure>
-										<h2 class="meta-after">Best Clothes this Season</h2>
-										<span class="meta text-after">Dec. 4, 2014</span>
-										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
-										<p><span class="learn-more">Read more</span></p>
-									</a>
-								</div>
-							</div>
-                            -->
-						</div>
-					</div>
-					<!-- END .row -->					
-				</div>
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12">
@@ -455,29 +309,289 @@ DESIGNED & DEVELOPED by FREEHTML5.CO
 						<div class="fh5co-workwithus-intro">
 							<h2>Detail</h2>
 							<h3 class="has-btn-after">
-                                4/23(Sat) 12:30-18:30<br>
-                                ＠さくらWORKS＜関内＞<br>
-                                参加費:無料。<br>
-                                終了後、別途関内の居酒屋で交流会を行います。
+                                4/23(Sat) 10:00-19:00<br>
+                                さくらワークス関内<br>
+                                参加費1000円、フード別<br>
+                                Fes後に懇親会もあります。
                             </h3>
-							<p><a href="sample.pdf" class="btn btn-primary btn-lg btn-uppercase btn-effect" target="_blank">PDF <i class="ti-angle-right"></i></a></p>
+							<p><a href="#" class="btn btn-primary btn-lg btn-uppercase btn-effect">PDF <i class="ti-angle-right"></i></a></p>
 						</div>
 					</div>
 				</section>
 
+				<div class="container" id="fh5co-journal">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="fh5co-heading text-center">
+									<h2 class="fh5co-heading-title">Work Shop FES Performer<span class="border"></span></h2>
+									<h3 class="fh5co-heading-intro">Work Shop Fesを盛り上げてくれる素敵な方々をご紹介します。</h3>
+								</div>
+						</div>
+					</div>
+					<!-- END .row -->
 
+					<div class="row">
+						<div class="owl-carousel-posts">
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_2.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">未読座談会　ヤハギケンタ </h2>
+										<span class="meta text-after">Dec. 1, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_3.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">「マナを見つけに」 タマクロ</h2>
+										<span class="meta text-after">Nov. 24, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_1.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">プロフェッショナル私の流儀　たまやん</h2>
+										<span class="meta text-after">Dec. 4, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_2.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">なかま　な　かんじ　ジャスミン </h2>
+										<span class="meta text-after">Dec. 1, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/projsect_3.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">○○　さとぴん</h2>
+										<span class="meta text-after">Nov. 24, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_1.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">Best Clothes this Season</h2>
+										<span class="meta text-after">Dec. 4, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_2.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">My New Minimal Workspace </h2>
+										<span class="meta text-after">Dec. 1, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_3.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">Camera Lenses!</h2>
+										<span class="meta text-after">Nov. 24, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+							<div class="item">
+								<div class="fh5co-image-text">
+									<a href="#" class="fh5co-block-links hover-img">
+										<figure>
+											<img src="images/project_1.jpg" alt="Post Title" class="img-responsive">
+											<div class="dark-overlay"></div>
+										</figure>
+										<h2 class="meta-after">Best Clothes this Season</h2>
+										<span class="meta text-after">Dec. 4, 2014</span>
+										<p>Design is the creation of a plan or convention for the construction of an object or a system as in architectural blueprints</p>
+										<p><span class="learn-more">Read more</span></p>
+									</a>
+								</div>
+							</div>
+
+						</div>
+					</div>
+					<!-- END .row -->
+					
+				</div>
+<!--
+				<section class="fh5co-section" id="fh5co-testimonial">
+					<i class="ti-quote-left quote-icon"></i>
+					<div class="container">
+						<div class="owl-carousel-fullwidth">
+							<div class="item">
+								<p class="text-center quote">Design must be functional and functionality must be translated into visual aesthetics, without any reliance on gimmicks that have to be explained. <cite class="author">&mdash; Ferdinand A. Porsche</cite></p>
+							</div>
+							<div class="item">
+								<p class="text-center quote">Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something. It seemed obvious to them after a while. <cite class="author">&mdash; Steve Jobs</cite></p>
+							</div>
+							<div class="item">
+								<p class="text-center quote">I think design would be better if designers were much more skeptical about its applications. If you believe in the potency of your craft, where you choose to dole it out is not something to take lightly.<cite class="author">&mdash; Frank Chimero</cite></p>
+							</div>
+						</div>
+					</div>
+				</section>
+-->
 			</main>
 
 			<footer id="fh5co-footer" role="contentinfo">
 
 				<div class="container">
-
+                    <!--
+                    <div id="fh5co-subscribe">
+						<h2 class="fh5co-subscribe-title">Don&acute;t miss our new stuff.</h2>
+						<div class="row">
+							<div class="col-md-4 col-md-offset-4">
+								<form role="form">
+								  <div class="form-group">
+								    <input type="email" class="form-control" id="subscribe-email" placeholder="Enter email">
+								    <button class="btn-subscribe"><i class="ti-arrow-right"></i></button>
+								  </div>
+								</form>
+							</div>
+						</div>
+					</div>
+				</div>
+				-->
 				<div class="container text-center fh5co-social-container">
 					<ul class="fh5co-social">
 						<li><a href="https://www.facebook.com/events/555753771256337/" target="_blank"><i class="ti-facebook"></i> Facebook</a></li>
-
+						<!--
+                        <li><a href="#"><i class="ti-twitter-alt"></i> Twitter</a></li>
+						<li><a href="#"><i class="ti-dribbble"></i> Dribbble</a></li>
+						<li><a href="#"><i class="ti-google"></i> GooglePlus</a></li>
+						<li><a href="#"><i class="ti-instagram"></i> Instagram</a></li>
+						<li><a href="#"><i class="ti-email"></i> Email us</a></li>
+                        -->
 					</ul>
 				</div>
+                <!--
+				<div id="fh5co-footer-links">
+					<div class="container">
+						<div class="row">
+
+							<div class="col-md-2 col-sm-3 col-xs-6 col-xxs-12 col-md-offset-1">
+								<div class="footer-links">
+									<ul>
+										<li><a href="#">Core Values</a></li>
+										<li><a href="#">Our Culture</a></li>
+										<li><a href="#">Capabilities</a></li>
+										<li><a href="#">Partners</a></li>
+										<li><a href="#">Affilliates</a></li>
+										<li><a href="#">Our Clients</a></li>
+										<li><a href="#">Careers</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-2 col-sm-3 col-xs-6 col-xxs-12">
+								<div class="footer-links">
+									<ul>
+										<li><a href="#">Core Values</a></li>
+										<li><a href="#">Our Culture</a></li>
+										<li><a href="#">Capabilities</a></li>
+										<li><a href="#">Partners</a></li>
+										<li><a href="#">Affilliates</a></li>
+										<li><a href="#">Our Clients</a></li>
+										<li><a href="#">Careers</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="clearfix visible-xs-block"></div>
+							<div class="col-md-2 col-sm-3 col-xs-6 col-xxs-12">
+								<div class="footer-links">
+									<ul>
+										<li><a href="#">Core Values</a></li>
+										<li><a href="#">Our Culture</a></li>
+										<li><a href="#">Capabilities</a></li>
+										<li><a href="#">Partners</a></li>
+										<li><a href="#">Affilliates</a></li>
+										<li><a href="#">Our Clients</a></li>
+										<li><a href="#">Careers</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="col-md-2 col-sm-3 col-xs-6 col-xxs-12">
+								<div class="footer-links">
+									<ul>
+										<li><a href="#">Core Values</a></li>
+										<li><a href="#">Our Culture</a></li>
+										<li><a href="#">Capabilities</a></li>
+										<li><a href="#">Partners</a></li>
+										<li><a href="#">Affilliates</a></li>
+										<li><a href="#">Our Clients</a></li>
+										<li><a href="#">Careers</a></li>
+									</ul>
+								</div>
+							</div>
+							<div class="clearfix visible-xs-block"></div>
+							<div class="clearfix visible-sm-block"></div>
+							<div class="col-md-2 col-sm-3 col-xs-6 col-xxs-12">
+								<div class="footer-links">
+									<ul>
+										<li><a href="#">Core Values</a></li>
+										<li><a href="#">Our Culture</a></li>
+										<li><a href="#">Capabilities</a></li>
+										<li><a href="#">Partners</a></li>
+										<li><a href="#">Affilliates</a></li>
+										<li><a href="#">Our Clients</a></li>
+										<li><a href="#">Careers</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+                -->
 				<div id="fh5co-copyright">
 					<div class="container">
 						<p class="text-center"><small>&copy; Copyright 2016 WorkShopFes. All Rights Reserved. <br>	Designed by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images by <a href="http://unsplash.com/" target="_blank">Unsplash</a></small></p>
