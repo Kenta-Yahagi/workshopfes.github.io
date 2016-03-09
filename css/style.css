@@ -92,7 +92,7 @@ a:hover, a:focus, a:active {
 }
 @media screen and (max-width: 992px) {
   #fh5co-header .fh5co-header-intro {
-    font-size: 60px;
+    font-size: 40px;
   }
 }
 
