@@ -632,9 +632,6 @@ a:hover, a:focus, a:active {
 }
 @media screen and (max-width: 768px) {
   .fh5co-image-text {
-    <!--test-->
-    font-size: 3px;
-    <!--fin-->
     padding: 0 20px;
   }
 }
@@ -683,6 +680,18 @@ a:hover, a:focus, a:active {
   font-size: 24px;
   line-height: 1.5;
   margin-bottom: .5em;
+}
+<!--test-->
+@media screen and (max-width: 768px) {
+.fh5co-image-text .fh5co-block-links h2 {
+  margin: 0;
+  color: #2e2e2e;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 1.5;
+  margin-bottom: .5em;
+  }
+<!--fin-->
 }
 .fh5co-image-text .fh5co-block-links:active, .fh5co-image-text .fh5co-block-links:focus {
   outline: none;
